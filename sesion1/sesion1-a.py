@@ -50,7 +50,7 @@ print("El tipo de 'articulos_comprados' es:", type(articulos_comprados))
 print("El tipo de 'precio_total' es:", type(precio_total))
 print("El tipo de 'tiene_descuento' es:", type(tiene_descuento))
 print("\n" + "-"*40 + "\n")
-
+    
 
 # 4. Dinamismo en Python (Tipado Dinámico)
 # A diferencia de otros lenguajes, en Python una variable puede cambiar de tipo libremente.
